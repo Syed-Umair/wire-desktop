@@ -8,7 +8,7 @@
     "fs-extra": "7.0.1",
     "googleapis": "24.0.0",
     "image-type": "3.0.0",
-    "jsrsasign": "8.0.12",
+    "jsrsasign": "8.0.19",
     "lodash": "4.17.11",
     "minimist": "1.2.0",
     "open-graph": "0.2.4",
